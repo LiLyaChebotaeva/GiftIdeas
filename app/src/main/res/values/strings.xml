@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GiftIdeas</string>
+    <string-array name="gender_options">
+        <item>Любой</item>
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+
+    <string-array name="age_options">
+        <item>Любой</item>
+        <item>Дети</item>
+        <item>Подростки</item>
+        <item>Взрослые</item>
+        <item>Пожилые</item>
+    </string-array>
+
+    <string-array name="interests_options">
+        <item>Любой</item>
+        <item>Спорт</item>
+        <item>Технологии</item>
+        <item>Книги</item>
+        <item>Музыка</item>
+        <item>Искусство</item>
+    </string-array>
+</resources>
